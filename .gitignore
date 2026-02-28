@@ -1,0 +1,11 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+
+# OS specific
+.DS_Store
+Thumbs.db
