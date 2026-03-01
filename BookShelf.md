@@ -11,8 +11,8 @@ Inspired by research background and iterative project process.
 
 **快速入门**：
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
-- [程序员的数学2-概率统计](https://github.com/HangboQuan/awesome-programming-books/blob/master/math/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A62-%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1.pdf)
-- [程序员的数学3-线性代数](https://github.com/HangboQuan/awesome-programming-books/blob/master/math/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A63-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.pdf)
+- [程序员的数学2-概率统计](./Math/程序员的数学2-概率统计.pdf)
+- [程序员的数学3-线性代数](./Math/程序员的数学3-线性代数.pdf)
 
 
 **深入理解**：
