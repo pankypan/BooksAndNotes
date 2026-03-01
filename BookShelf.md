@@ -30,9 +30,9 @@ Inspired by research background and iterative project process.
 ### Fundamentals
 
 Machine Learning:
-- [模式识别与机器学习-马春鹏著](./Math/模式识别与机器学习.pdf)
-- [精通特征工程-陈光欣译](./AI/精通特征工程.pdf)
 - [统计学习方法-李航著](https://github.com/pankypan/KnowledgeAndSkillsReview/blob/master/pk3.2_MachineLearningAlgos/README.md)
+- [模式识别与机器学习-马春鹏著](./AI/模式识别与机器学习.pdf)
+- [精通特征工程-陈光欣译](./AI/精通特征工程.pdf)
 
 
 **Deep Learning:**
